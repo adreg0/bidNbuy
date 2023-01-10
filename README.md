@@ -6,7 +6,7 @@
 </p>
 
 
-An End to End web application that can be used for seamless interactions between buyers and sellers where multiple buyers can bid their prices and sellers can accept a bid.
+An end-to-end web application that can be used for seamless interactions between buyers and sellers where multiple buyers can bid their prices and sellers can accept a bid.
 
 ### Technologies 🛠
 - MongoDB
