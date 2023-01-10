@@ -6,8 +6,15 @@
 
 An End to End web application that can be used for seamless interactions between buyers and sellers where multiple buyers can bid their prices and sellers can accept a bid.
 
+### Technologies 🛠
+- MongoDB
+- ExpressJs
+- ReactJS
+- NodeJs
 
-Run Locally
+
+## Setup
+
 ### 1. Clone repo
 
 ```
@@ -29,8 +36,10 @@ $ cd bidNbuy
 $ npm install
 $ node index.js
 ```
-###4. Shoot Up DB
+### 4. Shoot Up DB
+```
 $mongod
+```
 
 ### 5. Run Frontend
 
@@ -41,7 +50,7 @@ $ npm install
 $ npm start
 ```
 
-##Quick Demo
+## Demo
 
 https://user-images.githubusercontent.com/72513249/211558775-5ea0dd9a-ac1a-4589-b8e6-e5e1de3ab145.mp4
 
@@ -49,4 +58,6 @@ https://user-images.githubusercontent.com/72513249/211558775-5ea0dd9a-ac1a-4589-
 ![screens](https://user-images.githubusercontent.com/72513249/211558850-69b14ab0-1cc1-419e-98b9-9bada6aaa1a5.jpg)
 
 
+## License 
 
+This repository is licensed under MIT. Find [LICENSE](LICENSE) for further information
